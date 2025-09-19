@@ -3,6 +3,6 @@
 3. Run the commands:
 
 ```
-docker build -t asemio/the-goods:1.2.0 .
-docker push asemio/the-goods:1.2.0
+docker build -t us.gcr.io/francis-tuttle-prj/the-goods:1.3.0 --platform linux/amd64 .
+docker push us.gcr.io/francis-tuttle-prj/the-goods:1.3.0
 ```

@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-echo 'Starting asemio/the-goods ...'
+echo 'Starting francis-tuttle/the-goods ...'
 
 pushd /root > /dev/null
   tar xzf tools.tar.gz
